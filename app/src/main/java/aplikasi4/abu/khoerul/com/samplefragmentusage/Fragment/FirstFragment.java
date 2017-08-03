@@ -9,6 +9,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
+import aplikasi4.abu.khoerul.com.samplefragmentusage.MainActivity;
+import aplikasi4.abu.khoerul.com.samplefragmentusage.R;
+
 /**
  * A simple {@link Fragment} subclass.
  */

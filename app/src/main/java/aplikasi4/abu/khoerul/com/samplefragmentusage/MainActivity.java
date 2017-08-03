@@ -2,6 +2,8 @@ package aplikasi4.abu.khoerul.com.samplefragmentusage;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+import aplikasi4.abu.khoerul.com.samplefragmentusage.Fragment.FirstFragment;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
